@@ -1,0 +1,5 @@
+content of start text file
+123
+bbdanh
+abc
+this is additional line after staged
