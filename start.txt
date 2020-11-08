@@ -3,3 +3,4 @@ content of start text file
 bbdanh
 abc
 this is additional line after staged
+this line is newly added on Github web repo
