@@ -1,5 +1,5 @@
-Title: An example website
+Title: An Great website
 
-Simple Body
+Body: some interesting stuff goes here
 
-Copy right: 2020 Danh Ho
+Copy right: Git trainning 2020 Danh Ho
