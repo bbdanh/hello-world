@@ -1,5 +1,5 @@
-Title: An example website
+Title: A very respectful website
 
-Simple Body
+Body: Im not sure what will go here, but im sure it will be nice
 
-Copy right: 2020 Danh Ho
+Copy right: Stream 2020 Danh Ho
