@@ -1,2 +1,8 @@
 #TEAM
 	Danh Ho danhho@git.training @bbdanh
+	
+#THANKS
+	All my students!
+	
+#ADDITION
+	This is my testing text...
